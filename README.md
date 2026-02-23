@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name Is Junaid Ali
+## My Name Is Junaid Ali
 🔭 I’m currently working on junior web developer in OTS Global<br><br>🤝 I’m looking for help with Frontend Developer building responsive, user-friendly websites with HTML, CSS, JavaScript, and modern frameworks. Focused on clean UI, smooth user experience, and mobile-first design.<br>🌱 I’m currently learning in class 11 in national college<br>
 [![LinkedIn](https://www.linkedin.com/in/junaid-ali-ja/)] [Portfolio](https://ajunaidali.github.io/portfolio/)
 

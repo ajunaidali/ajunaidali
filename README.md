@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## My Name Is Junaid Ali
 🔭 I’m currently working on junior web developer in OTS Global<br><br>🤝 I’m looking for help with Frontend Developer building responsive, user-friendly websites with HTML, CSS, JavaScript, and modern frameworks. Focused on clean UI, smooth user experience, and mobile-first design.<br>🌱 I’m currently learning in class 11 in national college<br>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-ali-ja) [Portfolio](https://ajunaidali.github.io/portfolio/(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139))
+                                          [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-ali-ja) [Portfolio](https://ajunaidali.github.io/portfolio/(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139))
 
 
 ## 🌐 Socials:
